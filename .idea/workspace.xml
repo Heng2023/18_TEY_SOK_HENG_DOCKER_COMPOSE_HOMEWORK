@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18969b1e-638d-4b74-8ece-b7a0ed11cdf5" name="Changes" comment="">
+    <list default="true" id="ab157538-f433-4cae-a6df-368c22368315" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/952875c9-b22b-433e-9f29-db99ec08d5a7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/952875c9-b22b-433e-9f29-db99ec08d5a7/storage_v2/_src_/database/homework.cDQV4w.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/952875c9-b22b-433e-9f29-db99ec08d5a7/storage_v2/_src_/database/homework.cDQV4w/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/acc94bec-721c-456f-88ae-bb5bfaff0d87.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/acc94bec-721c-456f-88ae-bb5bfaff0d87/storage_v2/_src_/database/keycloakdb.D32-5g.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/acc94bec-721c-456f-88ae-bb5bfaff0d87/storage_v2/_src_/database/keycloakdb.D32-5g/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework-docker-compose" beforeDir="false" afterPath="$PROJECT_DIR$/homework-docker-compose" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework-docker-compose" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,29 +25,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/homework-docker-compose" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiPersistence">{}</component>
-  <component name="KubernetesApiProvider">{
-  &quot;isMigrated&quot;: true
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
-  <component name="ProjectId" id="2jxIcrYCDYhJHiyZ221L2KZQi7K" />
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2jziBn6Rt9FNxFiMhkt2seJ50Fq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Docker.homework-docker-compose: Compose Deployment.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/tepth/Desktop/18_TEY_SOK_HENG_DOCKER_COMPOSE_HOMEWORK",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,42 +53,10 @@
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
-      "oracle",
       "postgresql"
     ]
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\tepth\Desktop\Homework\18_TEY_SOK_HENG_DOCKER_COMPOSE_HOMEWORK\homework-docker-compose" />
-      <recent name="C:\Users\tepth\Desktop\Homework\18_TEY_SOK_HENG_DOCKER_COMPOSE_HOMEWORK" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="schema.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
-      <script-file value="$PROJECT_DIR$/schema.sql" />
-      <script-mode>FILE</script-mode>
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="18_TEY_SOK_HENG_DOCKER_COMPOSE_HOMEWORK" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="18_TEY_SOK_HENG_DOCKER_COMPOSE_HOMEWORK" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Database Script.schema.sql" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -95,19 +68,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="18969b1e-638d-4b74-8ece-b7a0ed11cdf5" name="Changes" comment="" />
-      <created>1722322383442</created>
+      <changelist id="ab157538-f433-4cae-a6df-368c22368315" name="Changes" comment="" />
+      <created>1722396175830</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1722322383442</updated>
-      <workItem from="1722322384534" duration="907000" />
-      <workItem from="1722323411006" duration="92000" />
-      <workItem from="1722323518395" duration="10583000" />
-      <workItem from="1722334280602" duration="344000" />
-      <workItem from="1722351451315" duration="1542000" />
-      <workItem from="1722353045763" duration="66000" />
-      <workItem from="1722353217134" duration="563000" />
-      <workItem from="1722353831787" duration="14000" />
+      <updated>1722396175830</updated>
+      <workItem from="1722396177065" duration="2127000" />
     </task>
     <servers />
   </component>

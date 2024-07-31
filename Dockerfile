@@ -5,7 +5,7 @@ FROM openjdk:21-jdk-slim
 WORKDIR /app
 
 # Copy the Spring Boot application's JAR file into the container
-COPY homework-docker-compose/mini-project-expense-tracking-0.0.1-SNAPSHOT.jar app.jar
+COPY mini-project-expense-tracking-0.0.1-SNAPSHOT.jar app.jar
 
 # Expose the port your Spring Boot application will run on
 EXPOSE 8181
